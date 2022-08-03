@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkonline_hotel_system"]=self["webpackChunkonline_hotel_system"]||[]).push([[443],{5830:function(e,t,n){n.r(t),n.d(t,{default:function(){return i}});var s=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},l=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"about"},[n("h1",[e._v("This is an about page")])])}],u=n(1001),a={},r=(0,u.Z)(a,s,l,!1,null,null,null),i=r.exports}}]);
+//# sourceMappingURL=about.fde61f25.js.map
